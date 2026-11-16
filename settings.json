@@ -8,7 +8,7 @@
   "server": {
     "ip": "JoySmpS1.aternos.me:41785",
     "port":41785 ,
-    "version": "26.3"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
